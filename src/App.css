@@ -1,0 +1,38 @@
+.question {
+  background: linear-gradient(to right, #ff8c00, #ff2d55);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: x-large;
+  text-align: center;
+  margin-top: 50px;
+}
+
+body {
+  background: linear-gradient(to left, #af2655, #860a35);
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#yes-button {
+  text-align: center;
+  margin-right: 10%;
+  background-color: green;
+  color: white;
+  font-size: 20px;
+}
+
+#no-button {
+  margin-left: 10%;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+}
+
+.leo {
+  width: 20rem;
+  margin-top: 50%;
+  margin-left: 20px;
+}
